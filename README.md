@@ -30,8 +30,8 @@ Welcome to my GitHub! I'm a passionate full-stack web developer who builds fast,
 ---
 
 ### 📫 Contact Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/riyadh-osama) *(Add your real link here)*
-- 📧 Email: your.email@example.com *(Replace with yours)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/riyadh-osama)
+- 📧 Email: riyadosama14112000@gmail.com
 
 ---
 
