@@ -1,52 +1,40 @@
-# 👋 Hey, I'm Riyad Osama
+# 👋 Hi, I'm Riyad Osama
 
 ## 🚀 JavaScript Software Engineer | MERN Stack Developer
 
-I'm a passionate full-stack developer crafting high-performance, scalable web applications using the **MERN stack**.
+Welcome to my GitHub! I'm a passionate full-stack web developer who builds fast, scalable, and responsive web applications using modern JavaScript technologies. I'm especially skilled in the **MERN stack**:
 
-🌐 Currently exploring modern web development tools & clean code practices.
-
----
-
-### 🧰 Tech Toolbox
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+- **MongoDB**
+- **Express.js**
+- **React.js**
+- **Node.js**
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Riyad's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Riyad's GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 💻 What I Do
+- Build full-stack applications with REST APIs and modern frontends
+- Write clean, maintainable, and reusable code
+- Work with databases, authentication systems, and deployment tools
+- Collaborate on team projects and open-source contributions
 
 ---
 
-### 📈 Contribution Graph
+### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 📧 Email: your.email@example.com
+| Frontend | Backend | Database | Tools |
+|---------|---------|----------|-------|
+| React.js | Node.js | MongoDB | Git & GitHub |
+| HTML/CSS | Express.js | Mongoose | Postman |
+| JavaScript (ES6+) | JWT/Auth | Firebase (optional) | VS Code |
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=blue&style=flat" alt="Riyad's GitHub profile views" />
-</p>
+### 📫 Contact Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/riyadh-osama) *(Add your real link here)*
+- 📧 Email: your.email@example.com *(Replace with yours)*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for visiting my profile!
