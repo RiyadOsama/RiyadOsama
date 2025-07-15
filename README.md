@@ -39,7 +39,7 @@ I'm a passionate full-stack developer crafting high-performance, scalable web ap
 
 ### 📫 Let's Connect
 
-- 💼 https://www.linkedin.com/in/riyadh-osama/
+- 💼 https://www.linkedin.com/in/riyadh-osama
 - 📧 riyadosama14112000@gmail.com
 
 ---
