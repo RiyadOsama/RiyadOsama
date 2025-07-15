@@ -1,40 +1,52 @@
-# 👋 Hi, I'm Riyad Osama
+# 👋 Hey, I'm Riyad Osama
 
-## 🚀 JavaScript Software Engineer | MERN Stack Developer
+## 🚀 JavaScript Software Engineer using MERN technologies
 
-Welcome to my GitHub! I'm a passionate full-stack web developer who builds fast, scalable, and responsive web applications using modern JavaScript technologies. I'm especially skilled in the **MERN stack**:
+I'm a passionate full-stack developer crafting high-performance, scalable web applications using the **MERN stack**.
 
-- **MongoDB**
-- **Express.js**
-- **React.js**
-- **Node.js**
+🌐 Currently exploring modern web development tools & clean code practices.
 
 ---
 
-### 💻 What I Do
-- Build full-stack applications with REST APIs and modern frontends
-- Write clean, maintainable, and reusable code
-- Work with databases, authentication systems, and deployment tools
-- Collaborate on team projects and open-source contributions
+### 🧰 Tech Toolbox
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
 ---
 
-### 🛠 Tech Stack
+### 📊 GitHub Stats
 
-| Frontend | Backend | Database | Tools |
-|---------|---------|----------|-------|
-| React.js | Node.js | MongoDB | Git & GitHub |
-| HTML/CSS | Express.js | Mongoose | Postman |
-| JavaScript (ES6+) | JWT/Auth | Firebase (optional) | VS Code |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiyadOsama&show_icons=true&theme=radical" alt="Riyad's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyadOsama&theme=radical" alt="Riyad's GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyadOsama&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### 📫 Contact Me
-- 💼 https://www.linkedin.com/in/riyadh-osama
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyadOsama&theme=react-dark" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 https://www.linkedin.com/in/riyadh-osama/
 - 📧 riyadosama14112000@gmail.com
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for visiting my profile!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RiyadOsama&label=Profile%20views&color=blue&style=flat" alt="Riyad's GitHub profile views" />
+</p>
