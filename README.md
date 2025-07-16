@@ -2,31 +2,27 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=JavaScript+Software+Engineer;Full+Stack+MERN+Developer;Dentist)](https://git.io/typing-svg)
 
-<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Line.gif" width="100%"/>
-
+<img src="https://github.com/RiyadOsama/RiyadOsama/blob/main/Assets/Line.gif" width="100%"/>
 
 <div align="center">
-	
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=YousryEssam&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=000000)
-  ![Years Badge](https://img.shields.io/badge/Coding%20Journey-5%2B%20Years-58A6FF?style=for-the-badge&labelColor=000000)
-  ![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-58A6FF?style=for-the-badge&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=RiyadOsama&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=000000)
+![Years Badge](https://img.shields.io/badge/Coding%20Journey-5%2B%20Years-58A6FF?style=for-the-badge&labelColor=000000)
+![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-58A6FF?style=for-the-badge&labelColor=000000)
 
-  ### 🚀 **"Innovation distinguishes between a leader and a follower"** - Steve Jobs
+### 🚀 **"Innovation distinguishes between a leader and a follower"** - Steve Jobs
 
-  [![Follow](https://img.shields.io/github/followers/YousryEssam?label=Follow%20Me&style=social)](https://github.com/YousryEssam)
-  [![Star](https://img.shields.io/badge/⭐-Star%20My%20Repos-yellow?style=social)](https://github.com/YousryEssam?tab=repositories)
-
+[![Follow](https://img.shields.io/github/followers/RiyadOsama?label=Follow%20Me&style=social)](https://github.com/RiyadOsama)
+[![Star](https://img.shields.io/badge/⭐-Star%20My%20Repos-yellow?style=social)](https://github.com/RiyadOsama?tab=repositories)
 
 </div>
 
+## <img src="https://github.com/RiyadOsama/RiyadOsama/blob/main/Assets/Hot.png"  height=40> About Me
 
-## <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Hot.png"  height=40> About Me
-
-<img align="right" alt="Coding" width="400" src="https://github.com/YousryEssam/YousryEssam/blob/main/git.gif"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/RiyadOsama/RiyadOsama/blob/main/git.gif"/>
 
 - 🎓 **ITI 9-Month Program Trainee Graduate**
-- 🎓 **Computer Science Graduate** 
+- 🎓 **Computer Science Graduate**
 - 💻 **Full-Stack .NET Engineer**
 - 🏆 **ECPC 2024 Finalist** - Top 13% in Egypt
 - 🥇 **3000+ Problems Solved** - Codeforces, LeetCode, HackerRank
@@ -38,7 +34,8 @@
 - 🌟 **Continuous learner & tech explorer**
 
 ### 📄 Portfolio & Resume
-- 🌐 **Portfolio Website**: [Yousry Essam Portfolio](https://yousryessam.github.io/Yousry_Essam.Portfolio)
+
+- 🌐 **Portfolio Website**: [Yousry Essam Portfolio](https://RiyadOsama.github.io/Yousry_Essam.Portfolio)
 - 📋 **Resume**: [View My Resume](https://drive.google.com/drive/folders/1Z73y3BaZLPars2UJrMFBgqyng6VEb1lJ?usp=sharing)
 
 ###
@@ -46,7 +43,7 @@
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif"  height=40> **Connect With Me** | Let's Build Something Amazing Together
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yousryessam"  style="text-decoration: none;" target="_blank">
+  <a href="https://www.linkedin.com/in/RiyadOsama"  style="text-decoration: none;" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="51" alt="linkedin logo" />
   </a>
   <a href="mailto:yousry.essam.ayoub@gmail.com"  style="text-decoration: none;" target="_blank">
@@ -64,7 +61,7 @@
   <a href="https://www.youtube.com/@Yousry_Essam"  style="text-decoration: none;" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="71" height="51" alt="youtube logo" />
   </a>
-  <a href="https://www.facebook.com/YousryEssamAyoub"  style="text-decoration: none;" target="_blank">
+  <a href="https://www.facebook.com/RiyadOsamaAyoub"  style="text-decoration: none;" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="71" height="51" alt="facebook logo" />
   </a>
   <a href="https://www.instagram.com/yousry__essam"  style="text-decoration: none;" target="_blank">
@@ -86,8 +83,7 @@
 	<a href="https://www.codingame.com/profile/238240177a719b80e502a0de5c471a1e7807474" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
 </div>
 
-## <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/tech.gif"  height=40> Technical Skills & Tools
-
+## <img src="https://github.com/RiyadOsama/RiyadOsama/blob/main/Assets/tech.gif"  height=40> Technical Skills & Tools
 
 ### Languages
 
@@ -119,7 +115,6 @@
   <img src="https://img.shields.io/badge/Microservices-Architecture-4ECDC4?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" alt="Microservices" />
 </div>
 
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
   <img width="15" />
@@ -127,7 +122,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
 </div>
-
 
 ### Databases
 
@@ -146,7 +140,6 @@
   <img src="https://img.shields.io/badge/Blazor-Expert-512BD4?style=for-the-badge&logo=blazor&logoColor=white&labelColor=000000" alt="Blazor" />
 </p>
 
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="60" alt="angularjs logo"  />
   <img width="15" />
@@ -158,7 +151,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo"  />
 </div>
-
 
 ### Development Tools
 
@@ -184,74 +176,57 @@
   <img src="https://skillicons.dev/icons?i=webstorm" height="60" alt="webstorm logo"  />
 </div>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height=30> **GitHub Analytics** - _Data That Tells My Story_
 
-
-
-
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height=30> **GitHub Analytics** - *Data That Tells My Story*
-> *Data-driven insights that showcase my development journey*
-
-
+> _Data-driven insights that showcase my development journey_
 
 ### 🔍 Profile Overview
+
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YousryEssam&theme=github_dark&hide_border=true" alt="GitHub Profile Summary"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiyadOsama&theme=github_dark&hide_border=true" alt="GitHub Profile Summary"/>
 </div>
-
-
 
 ### 📈 Core Statistics
+
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=YousryEssam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&card_width=650&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YousryEssam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="200" alt="Top Languages"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=RiyadOsama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&card_width=650&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiyadOsama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="200" alt="Top Languages"/>
 </div>
-
-
 
 ### 🔥 Contribution Streak
+
 <div align="center">
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=YousryEssam&theme=github-dark-blue&border_radius=20&card_width=400&card_height=200)](https://git.io/streak-stats)
- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RiyadOsama&theme=github-dark-blue&border_radius=20&card_width=400&card_height=200)](https://git.io/streak-stats)
+
 </div>
-
-
 
 ### 📊 Activity Graph
+
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YousryEssam&radius=20&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RiyadOsama&radius=20&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
-
-
 
 ### 🏆 Achievements
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=YousryEssam&theme=onedark&column=4&row=2&margin-w=15&margin-h=15&no-bg=false&no-frame=false&hide_border=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app?username=RiyadOsama&theme=onedark&column=4&row=2&margin-w=15&margin-h=15&no-bg=false&no-frame=false&hide_border=true" alt="GitHub Trophies"/>
 </div>
-
-
 
 ## Pacman Contribution graph
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YousryEssam/YousryEssam/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YousryEssam/YousryEssam/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YousryEssam/YousryEssam/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiyadOsama/RiyadOsama/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RiyadOsama/RiyadOsama/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RiyadOsama/RiyadOsama/output/pacman-contribution-graph.svg">
 </picture>
-
-
 
 ## Snake animation
 
-
-
-<img src="https://raw.githubusercontent.com/YousryEssam/YousryEssam/output/snake.svg" alt="Snake animation" />
-
-
-
+<img src="https://raw.githubusercontent.com/RiyadOsama/RiyadOsama/output/snake.svg" alt="Snake animation" />
 
 ## 💭 **Motivation Quote**
+
 <div align="center">
 	
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson)
