@@ -5,9 +5,11 @@
 <img src="https://github.com/RiyadOsama/RiyadOsama/blob/main/Assets/Line.gif" width="100%"/>
 
 <div align="center">
+	
 ![Profile Views](https://komarev.com/ghpvc/?username=RiyadOsama&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=000000)
 ![Years Badge](https://img.shields.io/badge/Coding%20Journey-2%2B%20Years-58A6FF?style=for-the-badge&labelColor=000000)
 ![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-58A6FF?style=for-the-badge&labelColor=000000)
+
 </div>
 
 ## <img src="https://github.com/RiyadOsama/RiyadOsama/blob/main/Assets/Hot.png"  height=40> About Me
@@ -72,6 +74,7 @@
 
 ### Databases
 
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
 </div>
 
@@ -97,6 +100,8 @@
 ### Development Tools
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
@@ -104,8 +109,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
   <img width="14" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height=30> **GitHub Analytics** - _Data That Tells My Story_
