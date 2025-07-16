@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/Riyadh-Osama"  style="text-decoration: none;" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="51" alt="linkedin logo" />
   </a>
-  <a href="riyadosama14112000@gmail.com"  style="text-decoration: none;" target="_blank">
+  <a href="mailto:riyadosama14112000@gmail.com"  style="text-decoration: none;" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="71" height="51" alt="gmail logo" />
   </a>
 </div>
