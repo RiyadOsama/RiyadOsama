@@ -14,7 +14,7 @@
 
 ## <img src="https://github.com/RiyadOsama/RiyadOsama/blob/main/Assets/Hot.png"  height=40> About Me
 
-<img align="right" alt="Coding" width="300" src="https://github.com/RiyadOsama/RiyadOsama/blob/main/School Learn GIF by Pudgy Penguins.gif"/>
+<img align="right" alt="Coding" width="250" src="https://github.com/RiyadOsama/RiyadOsama/blob/main/School Learn GIF by Pudgy Penguins.gif"/>
 
 - 💻 **JavaScript Software Engineer**
 - 🎓 **Al-Azhar Graduate**
