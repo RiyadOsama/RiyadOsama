@@ -18,7 +18,7 @@
 
 - 💻 **JavaScript Software Engineer**
 - 🎓 **Al-Azhar Graduate**
-- 🎓 **ITI Trainee Graduate**
+- 🎓 **ITI Trainee Student**
 - 🎓 **NTI Trainee Graduate**
 - ❤️ **Passionate about clean code, good UI, and great user experiences**
 - ⚡ **Driven by curiosity, fueled by coffee, focused on building useful things**
