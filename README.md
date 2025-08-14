@@ -1,6 +1,6 @@
 # Hi there, I'm Riyad Osama! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=Full+Stack+MERN+Developer;JavaScript+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=Full+Stack+MEARN+Developer;JavaScript+Software+Engineer)](https://git.io/typing-svg)
 
 <img src="https://github.com/RiyadOsama/RiyadOsama/blob/main/Assets/Line.gif" width="100%"/>
 
