@@ -16,7 +16,7 @@
 
 <!-- <img align="right" alt="Coding" width="250" src="https://github.com/RiyadOsama/RiyadOsama/blob/main/learn.gif"/> -->
 
-- 💻 **JavaScript Software Engineer**
+- 💻 **Web Developer**
 - 🎓 **Al-Azhar Graduate**
 - 🎓 **ITI Trainee Student**
 - 🎓 **NTI Trainee Graduate**
