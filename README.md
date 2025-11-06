@@ -25,7 +25,7 @@
 
 ### 📄 CV & Protofolio
 
-- 📋 **CV**: [View My CV]()
+- 📋 **CV**: [View My CV](https://drive.google.com/file/d/17SFzmsOLyDVo55oObQGPkOhewsoQxSw-/view?usp=drive_link)
 - 🌐 **Portfolio**: [View My Portfolio]()
 
 ###
