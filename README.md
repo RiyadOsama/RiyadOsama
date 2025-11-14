@@ -56,8 +56,7 @@
 
 ### Backend
 
-  <img src="https://img.shields.io/badge/RESTful_APIs-Advanced-00D9FF?style=for-the-badge&logo=swagger&logoColor=white&labelColor=000000" alt="RESTful APIs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
 </div>
 
 ### Databases
