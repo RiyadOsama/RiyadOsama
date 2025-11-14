@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Riyad Osama Abdelhafez!
+# 👋 Hi there, I'm Riyad Osama!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=Full+Stack+MEA|RN+Developer;Frontend+Specialist;Backend+Engineer;Building+Scalable+Apps)](https://git.io/typing-svg)
 <img src="Assets/Line.gif" width="100%"/> <br/>
@@ -6,8 +6,8 @@
 <div align="center">
 	
 ![Profile Views](https://komarev.com/ghpvc/?username=RiyadOsama&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=000000)
-![Years Badge](https://img.shields.io/badge/Coding%20Journey-2%2B%20Years-58A6FF?style=for-the-badge&labelColor=000000)
-![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=for-the-badge&labelColor=000000)
+![Years Badge](https://img.shields.io/badge/Coding%20Journey-1%2B%20Years-58A6FF?style=for-the-badge&labelColor=000000)
+![Focus](https://img.shields.io/badge/Focus-Frontend%20Development-58A6FF?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -16,7 +16,7 @@
 Full Stack MEARN Developer skilled in designing and developing scalable, responsive, and high-performance web applications.
 
 - 💻 **Full Stack Web Developer** - MEARN Stack Specialist
-- 🎓 **ITI Trainee** - Full Stack Web Development (May 2025 - Jon 2026)
+- 🎓 **ITI Trainee** - Full Stack Web Development (May 2025 - Jan 2026)
 - 🎓 **NTI Graduate** - Front-End Web Development (May 2025 - Aug 2025)
 - 🎓 **Al-Azhar University Graduate** - Bachelor of Dental Surgery (BDS) with Distinction
 - ❤️ **Passionate** about clean code, great UI/UX, and building user-focused solutions
@@ -28,7 +28,6 @@ Full Stack MEARN Developer skilled in designing and developing scalable, respons
 - 📱 **Phone**: +20 155 524 4668
 - ✉️ **Email**: [riyadosama14112000@hotmail.com](mailto:riyadosama14112000@hotmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/riyadh-osama](https://linkedin.com/in/riyadh-osama)
-- 🐙 **GitHub**: [github.com/RiyadOsama](https://github.com/RiyadOsama)
 
 ###
 
@@ -40,9 +39,6 @@ Full Stack MEARN Developer skilled in designing and developing scalable, respons
   </a>
   <a href="mailto:riyadosama14112000@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
-  </a>
-  <a href="https://github.com/RiyadOsama" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github logo" />
   </a>
 </div>
 
