@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Riyad Osama Abdelhafez!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=Full+Stack+MEA|RN+Developer;Frontend+Specialist;Backend+Engineer;Building+Scalable+Apps)](https://git.io/typing-svg)
-
-<img src="Assets/Line.gif" width="100%"/> <br/> <br/>
+<img src="Assets/Line.gif" width="100%"/> <br/>
 
 <div align="center">
 	
