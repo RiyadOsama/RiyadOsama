@@ -56,19 +56,7 @@
 
 ### Backend
 
-<div align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-Advanced-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=000000" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-Expert-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=000000" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/RESTful_APIs-Advanced-00D9FF?style=for-the-badge&logo=swagger&logoColor=white&labelColor=000000" alt="RESTful APIs" />
-  <img src="https://img.shields.io/badge/SignalR-Real_Time-FF6B6B?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000" alt="SignalR" />
-  <img src="https://img.shields.io/badge/Microservices-Architecture-4ECDC4?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" alt="Microservices" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
 </div>
 
