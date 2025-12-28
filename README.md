@@ -104,13 +104,6 @@ Full Stack MEARN Developer skilled in designing and developing scalable, respons
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiyadOsama&theme=github_dark&hide_border=true" alt="GitHub Profile Summary"/>
 </div>
 
-### 📈 Core Statistics
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=RiyadOsama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&card_width=650&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiyadOsama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="200" alt="Top Languages"/>
-</div>
-
 ### 📊 Activity Graph
 
 <div align="center">
