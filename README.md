@@ -44,54 +44,53 @@ Full Stack MEARN Developer skilled in designing and developing scalable, respons
 
 ## <img src="Assets/tech.gif"  height=40> Technical Skills & Tools
 
-### Languages & Core Technologies
-
+### 🌐 Languages
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery" height="60" alt="languages" />
 </div>
 
-### Front-End Frameworks
-
+### 🎨 Front-End Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" height="60" alt="frameworks" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind" height="60" alt="styling" />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="60" alt="angular logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="tailwind css logo" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="mui" />
+  <img src="https://cdn.simpleicons.org/radixui/18181B" height="60" alt="radix ui" />
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="60" alt="shadcn ui" />
 </div>
 
-### Back-End Technologies
-
+### ⚙️ Back-End Technologies
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman" height="60" alt="backend" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  <img src="https://cdn.simpleicons.org/mongoose/880000" height="60" alt="mongoose" />
 </div>
 
-### Databases & Tools
-
+### 🧪 Testing Suite
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="jest vitest" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="60" alt="jest vitest" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="60" alt="jasmine" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="60" alt="mocha" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+  <img src="https://cdn.simpleicons.org/chai/A30706" height="60" alt="chai" />
+</div>
+
+### 🛠️ Development Tools & Practices
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="uiux design" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git,github" height="60" alt="version control" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/scrumalliance/65AD2B" height="60" alt="agile scrum" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/pwa/5A0FC8" height="60" alt="pwa" />
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height=30> **GitHub Analytics** - _Data That Tells My Story_
